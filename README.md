@@ -66,6 +66,7 @@
 <img width="661" alt="image" src="https://github.com/olehni1/ksim_lab_3/assets/150624205/8914cf3d-71e8-43d8-9ead-a66a1c06b397">
 
 <br>
+<br>
 
 **Налаштування цільової функції** (вкладка Search Objective):
 

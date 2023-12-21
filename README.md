@@ -94,4 +94,6 @@
 
 <img width="661" alt="image" src="https://github.com/olehni1/ksim_lab_3/assets/150624205/4d241a16-f368-43a1-8531-98594307c1c5">
 
+<br>
 
+### Результати використання BehaviorSearch:

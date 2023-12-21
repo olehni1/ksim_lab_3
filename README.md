@@ -97,3 +97,15 @@
 <br>
 
 ### Результати використання BehaviorSearch:
+
+Результат пошуку параметрів імітаційної моделі, використовуючи **генетичний алгоритм**:  
+
+<img width="1005" alt="image" src="https://github.com/olehni1/ksim_lab_3/assets/150624205/d4bddc33-fde6-46a0-9661-58e8cf33823a">
+
+<br>
+<br>
+
+Результат пошуку параметрів імітаційної моделі, використовуючи **випадковий пошук**:
+
+<img width="1008" alt="image" src="https://github.com/olehni1/ksim_lab_3/assets/150624205/6fde33a2-53c1-48fd-8f23-db0eb88b7ac4">
+
